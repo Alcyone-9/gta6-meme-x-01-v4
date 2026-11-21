@@ -2,9 +2,9 @@
 
 A two-panel poster about GTA VI's launch week: up top, players crowd a Leonida pool insisting they are "just here for the realistic graphics" while their hearts drift to Mandy — the Pipework side character who out-trended protagonist Lucia within a day of launch. Below the "ENJOYING REALISTIC GRAPHICS" divider, one player has been enjoying them so long he is now a skeleton on a deck chair at the bottom of the sea, controller still in hand. The make.fun ghost floats beside him holding a BOUNTY PAID receipt — because on make.fun, unlike in Leonida, the bounties pay real money.
 
-![make.fun rank](https://make.fun/api/badges/repos/Alcyone-9/gta6-meme-x-01-v4/rank.svg)
-![make.fun reward](https://make.fun/api/badges/repos/Alcyone-9/gta6-meme-x-01-v4/reward.svg)
-![make.fun](https://make.fun/api/badges/makefun.svg)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Alcyone-9/gta6-meme-x-01-v4/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Alcyone-9/gta6-meme-x-01-v4/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 ## Concept
 
